@@ -227,4 +227,11 @@ h1 {
 .shareResults:after {
     display: none;
 }
+
+}
+
+@media (max-width: 750px) and (orientation: landscape) { 
+.container {
+    margin-top: 180px;
+}
 }
